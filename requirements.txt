@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+scikit-learn
+numpy
+reportlab
+openpyxl
+kaleid
