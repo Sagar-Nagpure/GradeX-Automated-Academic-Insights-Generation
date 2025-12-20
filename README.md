@@ -32,7 +32,7 @@ GradeX is a powerful and intuitive Streamlit web application designed to automat
 -   **Excel Handling**: openpyxl
 -   **Plotly Image Export**: kaleido
 
-## 🚀 Getting Started
+## ✅ Getting Started
 
 To run GradeX on your local machine, follow these steps.
 
@@ -85,3 +85,4 @@ To run GradeX on your local machine, follow these steps.
     -   Click the "Download Classwise Report" button to get a comprehensive PDF summary of the entire class.
     -   For individual reports, select a student and click "Download Individual Student PDF".
     -   Use the "Download All Student Reports" button to generate a single PDF containing reports for every student in the uploaded file.
+
