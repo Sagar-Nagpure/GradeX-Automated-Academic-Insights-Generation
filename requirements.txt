@@ -1,8 +1,10 @@
 streamlit
 pandas
+matplotlib
 plotly
 scikit-learn
 numpy
 reportlab
 openpyxl
 kaleido
+seaborn
