@@ -86,3 +86,5 @@ To run GradeX on your local machine, follow these steps.
     -   For individual reports, select a student and click "Download Individual Student PDF".
     -   Use the "Download All Student Reports" button to generate a single PDF containing reports for every student in the uploaded file.
 
+
+---
