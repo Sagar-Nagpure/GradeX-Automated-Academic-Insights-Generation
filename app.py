@@ -1412,4 +1412,5 @@ st.markdown("""
 # ---------------- END OF SCRIPT ----------------
 
 
-# Made by : SAGAR NAGPURE
+# Author : SAGAR NAGPURE
+# ALL RIGHTS RESERVED
